@@ -23,7 +23,7 @@
 
 ## 教程目录
 
-阅读直达 → [在线教程](https://yumeng.icu/nest/)
+阅读直达 → [在线教程](https://yumeng.icu/nest/)（Latest）
 
 ### 概述
 - [控制器 (Controller)](./概述/4.nest-controller.md)
